@@ -105,9 +105,9 @@
 - date: Thu 02/08/24
   lecturer:
   title:
-    - Neural Networks
-    - Neural Language Models
+    - Basics of Neural Networks and Language Model Training
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/EcUN_fZ1N3FHktlUitsm6YcBxMqb2swwMm3gSsBhKIBMHA?e=wPhsSO
   readings:
   optional:
   logistics: <strong>2/11</strong> HW 1 due; HW 2 out
