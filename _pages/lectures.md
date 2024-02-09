@@ -92,7 +92,7 @@ description: Note - This schedule is tentative and subject to change as the seme
             <br/>
         {% endif %}
 
-        {% if lecture.slides or lecture.slides2 %}        
+        {% if lecture.slides or lecture.slides2 or lecture.annotated %}        
         [
         {% endif %}
             {% if lecture.slides %}
