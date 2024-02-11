@@ -213,16 +213,20 @@
   logistics:
 
 - date: Thu 03/28/24
-  lecturer:
+  guest:
+    - name: Akari Asai
+      photo: https://akariasai.github.io/images/profile.jpg
+      profile: https://akariasai.github.io/
+      affil: University of Washington
   title:
-    - Information retrieval and search
+    - Retreival-Augmented Language Models
   recitation:
   logistics: HW3 due
 
 - date: Tues 04/02/24
   lecturer: Arman
   title:
-    - Retreival-based language models
+    - Multilingual NLP
   slides:
   readings:
   optional:
@@ -275,7 +279,7 @@
 - date: Thu 04/18/24
   lecturer: Arman
   title:
-    - Guest lecture 2
+    - TBD
   slides:
   readings:
   optional:
