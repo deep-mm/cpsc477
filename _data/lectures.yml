@@ -230,17 +230,21 @@
 
 - date: Thu 04/04/24
   title:
-    - Multilingual NLP
+    - Reinforcement learning
+    - Alignment
   slides:
   readings:
   optional:
   logistics:
 
 - date: Tues 04/09/24
-  lecturer: Arman
+  guest:
+    - name: Luca Soldaini
+      photo: https://soldaini.net/personal-me/me-512.webp
+      profile: https://soldaini.net/
+      affil: Allen Institute for AI
   title:
-    - Reinforcement learning
-    - Alignment
+    - Data-Centric NLP
   slides:
   readings:
   optional:
@@ -256,9 +260,13 @@
   logistics:
 
 - date: Tues 04/16/24
-  lecturer: Arman
+  guest:
+    - name: Jason Weston
+      photo: https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/91786928_152069292784617_4696006152117288960_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e280be&_nc_ohc=uGQPL_NdnXsAX_HK9rl&_nc_ht=scontent-iad3-1.xx&oh=00_AfDqLkDNUvoKyOgPNrYVtrFzjSedFaib9Am-CBZp-C2R2Q&oe=65E34C10
+      profile: https://ai.meta.com/people/jason-weston/
+      affil: Meta AI
   title:
-    - Guest lecture 1
+    - TBD
   slides:
   readings:
   optional:
