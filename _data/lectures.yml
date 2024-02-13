@@ -118,10 +118,11 @@
   lecturer:
     - Arman
   title:
-    - Task specific neural architectures
-    - RNNs and CNNs
-    - Machine translation
+    - Autograd
+    - Building blocks of Neural Networks
+    - Network layers and optimizers
   slides:
+    - https://yaleedu-my.sharepoint.com/:b:/g/personal/arman_cohan_yale_edu/ES1wx8539bNEvVafC0Utqw4B1RYtLo8q7xf5t80CZN0WiA?e=66NJkU
   readings:
   optional:
   logistics: <br/>  Project teams due
